@@ -1,17 +1,16 @@
 //
-//  FirstDetailViewController.swift
+//  SecondDetailViewController.swift
 //  apple_lab06_05_NavigationWithTabBarController
 //
-//  Created by developer on 4/16/25.
+//  Created by Jaime Gomez on 20/4/25.
 //
 
 import UIKit
 
-class FirstDetailViewController: UIViewController {
+class SecondDetailViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        title = "Detail"
 
         // Do any additional setup after loading the view.
     }
